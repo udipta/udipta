@@ -96,17 +96,17 @@ I treat latency and infrastructure cost like product features — if it’s slow
 
 > Always building systems that move real business metrics.
 
-Clarity before cleverness.  
-Scale intentionally — backed by data, not assumptions
-Performance and infrastructure cost are product features
-Observability is designed in from day one
-Reliability is engineered, not patched
+Clarity before cleverness  
+Scale intentionally — backed by data, not assumptions  
+Performance and infrastructure cost are product features  
+Observability is designed in from day one  
+Reliability is engineered, not patched  
 Simplicity outlives abstraction
 
 
 ## 🤝 Let’s Talk About
 
-High-scale backend architecture
+High-scale backend architecture  
 Production-grade GenAI systems  
 Distributed and event-driven data platforms  
 Performance & latency optimization  
