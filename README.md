@@ -92,11 +92,6 @@ I treat latency and infrastructure cost like product features — if it’s slow
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=udipta&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udipta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🧠 Engineering Philosophy
 
 > Always building systems that move real business metrics.
