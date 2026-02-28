@@ -27,10 +27,6 @@ Python backend architecture, Django/FastAPI scaling, AWS optimization, ETL syste
 I treat latency and infrastructure cost like product features — if it’s slow or expensive, it’s a bug.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udipta03) 
-
-
 ## 🛠 Core Stack
 
 ### Backend & APIs
